@@ -18,3 +18,6 @@ Learning Resource
 ------- | -------
  | Flutter Tutorials|(https://www.javatpoint.com/flutter)
 
+**Day 2** | Resources/Code
+------- | -------
+ | Flutter Installation |(https://www.javatpoint.com/flutter-installation)
