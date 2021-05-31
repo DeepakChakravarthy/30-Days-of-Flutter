@@ -21,3 +21,7 @@ Learning Resource
 **Day 2** | Resources/Code
 ------- | -------
  | Flutter Installation |(https://www.javatpoint.com/flutter-installation)
+
+**Day 3** | Resources/Code
+------- | -------
+ | Flutter First App |(https://www.javatpoint.com/flutter-first-application)
