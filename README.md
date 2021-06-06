@@ -34,3 +34,13 @@ Learning Resource
 ------- | -------
  | Flutter First App |(https://www.javatpoint.com/flutter-first-application)
  
+**Day 6** | Resources/Code
+------- | -------
+ | DART Programming |(https://www.javatpoint.com/flutter-dart-programming)
+ 
+**Day 7** | Resources/Code
+------- | -------
+ | DART Programming |(https://www.javatpoint.com/flutter-dart-programming)
+ 
+ 
+ 
